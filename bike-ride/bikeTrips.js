@@ -30,7 +30,7 @@ function plotStackColumns() {
                 }
             },
             title: {
-                text: 'Bike#'
+                text: 'Bike'
             }
         },
         yAxis: {
