@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-/* global regForm, angular */
+/* angular */
 
 var app = angular.module('myApp', []);
 app.controller('Sform', function($scope, $http) {
